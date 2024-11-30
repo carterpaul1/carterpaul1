@@ -37,8 +37,7 @@ I believe that clean, scalable code has the power to bring ideas to life. Each p
 ## 📬 Let's Connect!  
 I'm always open to learning, collaboration, and new opportunities. Feel free to reach out or connect with me:  
 - **Email**: carterpaul1@yahoo.com  
-- **LinkedIn**: www.linkedin.com/in/paul-carter-2334b356  
-- **Portfolio**: [Your Portfolio Link Here]    
+- **LinkedIn**: www.linkedin.com/in/paul-carter-2334b356      
 
 ---
 
